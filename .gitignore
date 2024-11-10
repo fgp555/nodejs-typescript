@@ -1,0 +1,12 @@
+tmp
+back.txt
+front.txt
+uploads
+*.env.prod*
+
+
+# compiled output
+/dist
+/node_modules
+/build
+/tmp
